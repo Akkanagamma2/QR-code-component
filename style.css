@@ -55,6 +55,6 @@ img{
 
 @media(min-width:450px){
     .container{
-        width: 400px;
+        width: 300px;
     }
 }
